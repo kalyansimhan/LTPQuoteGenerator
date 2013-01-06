@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">LTP Quote Generator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">LocalTeaParty</string>
+    <string name="generate_quote">Generate</string>
+    <string name ="bio">The pen is mightier than the sword and all ok, but don&quot;t try to fight with a pen. Otherwise there will be ink all over you.</string>
+	<string name="app_header">Local Tea Party Says:</string>
+	<string name="app_credits">Original Idea by @yuvipanda</string>
+</resources>
