@@ -1,5 +1,6 @@
 LTPQuoteGenerator
 =================
+Google Play Store : http://goo.gl/ASFhO
 
 A Simple Quote Generator Application.
 
